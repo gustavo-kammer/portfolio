@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu",
+    "toggle_lang": "Mudar para PT"
+  },
+  "hero": {
+    "available": "Available for projects",
+    "scroll": "Scroll"
+  },
+  "versatility": {
+    "line1": "From public health to athletic performance.",
+    "line2": "From agribusiness to commercial intelligence."
+  },
+  "projects": {
+    "title": "Projects",
+    "filter_all": "All",
+    "filter_healthtech": "Healthtech",
+    "filter_edtech": "EdTech",
+    "filter_agritech": "AgriTech",
+    "filter_govtech": "GovTech",
+    "filter_sports": "Sports",
+    "filter_enterprise": "Enterprise"
+  },
+  "about": {
+    "title": "About",
+    "skills_label": "Tools & skills",
+    "read_more": "Read more →",
+    "read_less": "Read less ↑"
+  },
+  "contact": {
+    "opening": "Got a project in mind?",
+    "available": "Available for projects, partnerships and strategic opportunities."
+  },
+  "project_detail": {
+    "back": "← Back to projects",
+    "challenge": "Challenge",
+    "gallery_empty": "Gallery in progress",
+    "prev": "← Previous",
+    "next": "Next →",
+    "role_label": "Role",
+    "client_label": "Client",
+    "year_label": "Year",
+    "view_live": "View live project"
+  }
+}

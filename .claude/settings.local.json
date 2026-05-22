@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\gusta\\\\Downloads\\\\premium-portfolio-angular\\\\premium-portfolio-angular\\\\premium-portfolio\")",
+      "Bash(npx ng *)",
+      "Bash(curl -s http://localhost:4200)",
+      "Bash(curl -s http://localhost:4200/projects/flow-banking)",
+      "Bash(pkill -f \"ng serve\")",
+      "Bash(taskkill /F /IM node.exe)",
+      "Bash(findstr /V \"not found\")",
+      "Bash(Get-ChildItem -Recurse \"C:\\\\Users\\\\gusta\\\\Downloads\\\\premium-portfolio-angular\\\\premium-portfolio-angular\\\\premium-portfolio\\\\src\\\\assets\\\\images\" -Include \"*.jpg\",\"*.jpeg\",\"*.png\",\"*.webp\",\"*.avif\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\gusta\\\\Downloads\\\\premium-portfolio-angular\\\\premium-portfolio-angular\\\\premium-portfolio\" -Recurse -Directory)",
+      "Bash(Select-Object -First 30)",
+      "Bash(Format-Table FullName)"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "work": "Trabalho",
+    "about": "Sobre",
+    "contact": "Contato",
+    "open_menu": "Abrir menu",
+    "close_menu": "Fechar menu",
+    "toggle_lang": "Switch to English"
+  },
+  "hero": {
+    "available": "Disponível para projetos",
+    "scroll": "Scroll"
+  },
+  "versatility": {
+    "line1": "De saúde pública a performance esportiva.",
+    "line2": "De agroindústria a inteligência comercial."
+  },
+  "projects": {
+    "title": "Projetos",
+    "filter_all": "Todos",
+    "filter_healthtech": "Healthtech",
+    "filter_edtech": "EdTech",
+    "filter_agritech": "AgriTech",
+    "filter_govtech": "GovTech",
+    "filter_sports": "Esporte",
+    "filter_enterprise": "Enterprise"
+  },
+  "about": {
+    "title": "Sobre",
+    "skills_label": "Ferramentas & competências",
+    "read_more": "Ler mais →",
+    "read_less": "Ler menos ↑"
+  },
+  "contact": {
+    "opening": "Tem um projeto em mente?",
+    "available": "Disponível para projetos, parcerias e oportunidades estratégicas."
+  },
+  "project_detail": {
+    "back": "← Voltar aos projetos",
+    "challenge": "Desafio",
+    "gallery_empty": "Galeria em construção",
+    "prev": "← Anterior",
+    "next": "Próximo →",
+    "role_label": "Papel",
+    "client_label": "Cliente",
+    "year_label": "Ano",
+    "view_live": "Ver projeto ao vivo"
+  }
+}
